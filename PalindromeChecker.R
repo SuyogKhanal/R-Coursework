@@ -1,3 +1,4 @@
+#Write R program to check whether a number is palindrome or not.
 palindrome = function(n){
   s = 0
   temp = n
